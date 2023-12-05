@@ -17,11 +17,11 @@ Não temos dias certos para publicar informações atualizadas então fique liga
 < cabeça >
 @@ -17,7 +18,15 @@
     < img  id =" banner "   src =" YOUTZ-MATEMATICA-ENEM-870x420.jpg " alt =" Pensamento Computacional " >
-    <p ></p> style =" cor de fundo: roxo " >
-    < h1  id = " título " > KPOPNEWS </h1> _
-    <p> </p>   class =" texto " >   </p>
-    <p>> </p>   class =" texto " > < em >  < strong >  < q > Matemática fundamental </ q > </ strong > </ em > </p>
-    <p> </p>   class =" texto " > KPOPNEWS </p>
+    <p></p> style =" cor de fundo: roxo " >
+    <h1></h1>  id = " título " > KPOPNEWS </h1> _
+    <p></p>   class =" texto " >   </p>
+    <p></p>   class =" texto " > < em >  < strong >  < q > Matemática fundamental </ q > </ strong > </ em > </p>
+    <p></p>   class =" texto " > KPOPNEWS </p>
     <p>  ola  meu  nome  é  Thawiny  eu  tenho  22  anos <p/>
     <p>  Nossa  empresa  foi  criada  através  de  meus  investimentos  e  apoio  financeiro <p/>
     <p>  As  administradoras  da  empresa  e  donas  é  eu  e  minha amiga talia  (que  é  mianha  assistente) <p/>
